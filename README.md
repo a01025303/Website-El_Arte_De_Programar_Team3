@@ -3,5 +3,6 @@ Collaboration Website
 
 ## Authors
 - Ana Paula Katsuda Zalce
+- Patricio Bosque Rosas
 
 
